@@ -5,7 +5,7 @@
     color: rgba(255, 255, 255, .55);
 }
 .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
-    display: flex;
+    display: inline
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;
